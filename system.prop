@@ -91,3 +91,6 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
+
+#Update server
+cm.updater.uri=http://theapu.in/CyanogenModOTA/api
